@@ -5,11 +5,9 @@
 Generate 3D Greek cross fractal using OpenGL (included in the latest versions of Haskell) 
 with {n: 1 <= n <= 6} dimensions and with additional representations using cubes. 
 
-To run, should compile the file MyCrosses.hs
+To run, should compile the file MyCrosses.hs using Haskell (`version 7.10.2` was used for this project)
 
 > ghc --make MyCrosses.hs
-
-while in the same directory with the file
 
 ### Controls:
 ```
